@@ -1,9 +1,12 @@
 body{
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    display: grid;
+place-content: center;
+min-height: 100vh;
 }
-div{
-    max-width: 300px;
+.card{
+    max-width: 300rem;
     background-color: white;
     border-radius: 10px;
     padding: 10px;
@@ -11,7 +14,7 @@ div{
     text-align: center;
 }
 p{
-    size: 15px;
+    font-size: 15rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
