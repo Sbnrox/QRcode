@@ -2,19 +2,19 @@ body{
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
     display: grid;
-place-content: center;
-min-height: 100vh;
+    place-content: center;
+    min-height: 100vh;
 }
 .card{
-    max-width: 300rem;
+    max-width: 18rem;
     background-color: white;
     border-radius: 10px;
     padding: 10px;
-    align-items: center;
+ 
     text-align: center;
 }
 p{
-    font-size: 15rem;
+    size: 1rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
