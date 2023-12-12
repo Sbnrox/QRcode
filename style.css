@@ -10,11 +10,10 @@ body{
     background-color: white;
     border-radius: 10px;
     padding: 10px;
- 
     text-align: center;
 }
 p{
-    size: 1rem;
+    font-size: 1rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
@@ -22,6 +21,7 @@ h2{
     color: hsl(218, 44%, 22%);
     font-weight: 700;
 }
-img{    border-radius: 10px;
-padding-top: 5px;
+img{
+    border-radius: 10px;
+    padding-top: 5px;
 }
